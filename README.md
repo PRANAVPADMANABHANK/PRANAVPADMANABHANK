@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *MERN , GIT*
 
-- 📫 How to reach me **pranavkkeloth@gmail.com**
+- 📫 How to reach me **pranavkofficial123@gmail.com**
 
 - ⚡ Fun fact *I am curious*
 
