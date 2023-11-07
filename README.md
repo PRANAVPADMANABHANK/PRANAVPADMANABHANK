@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranav1030" target="blank"><img src="https://img.shields.io/twitter/follow/pranav1030?logo=twitter&style=for-the-badge" alt="pranav1030" /></a> </p>
 
-- 🌱 I’m currently learning *REACT JS*
+- 🌱 I’m currently learning *Angular JS*
 
 - 💬 Ask me about *MERN , GIT*
 
