@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Angular JS*
 
-- 💬 Ask me about *MER(A)N , GIT*
+- 💬 Ask me about *MEARN , GIT*
 
 - 📫 How to reach me **pranavkofficial123@gmail.com**
 
