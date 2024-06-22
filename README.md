@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/pranav1030" target="blank"><img src="https://img.shields.io/twitter/follow/pranav1030?logo=twitter&style=for-the-badge" alt="pranav1030" /></a> </p>
 
+- 🌱 Researching about *Web3*
+  
 - 🌱 I’m currently learning *Next JS and Prisma ORM*
 
 - 💬 Ask me about *MEARN , GIT*
