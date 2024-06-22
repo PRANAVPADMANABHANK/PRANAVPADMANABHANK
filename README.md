@@ -14,9 +14,9 @@
 
 - 💬 Ask me about *MEARN , GIT*
 
-- 📫 How to reach me **pranavkofficial123@gmail.com**
+- 📫 Reach out me **pranavkofficial123@gmail.com**
 
-- ⚡ Fun fact *I am curious*
+- ⚡ *Tech-Enthusiast*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
