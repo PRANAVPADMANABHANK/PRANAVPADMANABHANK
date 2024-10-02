@@ -9,7 +9,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%96%A5;Web+3.0+Explorer+%F0%9F%94%8E;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%96%A5;Web+3.0+Explorer+%F0%9F%94%8E;Tech+Enthusiast+%F0%9F%92%BB;Stay+UptoDate+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ---
