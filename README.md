@@ -2,7 +2,7 @@
 <!-- ![MasterHead](https://your-image-link.com) -->
 
 <h1 align="center">
-  Hey there! I'm <span style="color:#4CAF50">PRANAV K</span> 👋
+  Hey there! I'm <span style="color:#4CAF50">PRANAVPADMANABHAN</span> 👋
 </h1>
 <h3 align="center">
   A Passionate Software Engineer from India 🇮🇳
