@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm PRANAV K</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>    
-<img align="right" alt="Coding" width="400" src="[https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg](https://res.cloudinary.com/dcdydl2xr/image/upload/v1727853617/6f2f323032342f30342f30392f30332f30342f61692d67656e6572617465642d383638343836395f313238302e6a7067_prev_ui-Photoroom_tinpff.png)">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dcdydl2xr/image/upload/v1727853617/6f2f323032342f30342f30392f30332f30342f61692d67656e6572617465642d383638343836395f313238302e6a7067_prev_ui-Photoroom_tinpff.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpadmanabhank&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpadmanabhank" /> </p>
 
