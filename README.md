@@ -18,7 +18,7 @@
 
 - 🧑‍💻 Researching *Web3* technologies  
 - 🌱 Currently learning *Next.js* and *Prisma ORM*  
-- 💬 Feel free to ask me about *MERN, GIT*  
+- 💬 Feel free to ask me about *MERN,*MEAN, GIT*  
 - 📫 Reach me at *pranavkofficial123@gmail.com*  
 - ⚡ Fun fact: Tech-enthusiast and open-source lover
 
