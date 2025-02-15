@@ -20,7 +20,7 @@
 - 🌱 Currently learning *Next.js* and *Prisma ORM*  
 - 💬 Feel free to ask me about *MERN, MEAN, GIT*  
 - 📫 Reach me at *pranavkofficial123@gmail.com*  
-- ⚡ Fun fact: Tech-enthusiast and open-source lover
+- ⚡ Tech-enthusiast and open-source lover
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pranavpadmanabhank&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
