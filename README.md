@@ -1,80 +1,72 @@
-<!-- Optional: Add a custom header image -->
-<!-- ![MasterHead](https://your-image-link.com) -->
-
-<h1 align="center">
-  Hey there! I'm <span style="color:#4CAF50">PRANAVPADMANABHAN</span> 👋
-</h1>
-<h3 align="center">
-  A Passionate Software Engineer from India 🇮🇳
-</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%96%A5;Web+3.0+Explorer+%F0%9F%94%8E;Tech+Enthusiast+%F0%9F%92%BB;Consistency is the key+to success+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
+
+<h1>Hey, I'm Pranav 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=35D6C4&background=0A112000&center=true&vCenter=true&width=650&lines=Full+Stack+%26+AI+Software+Engineer;Next.js+%C2%B7+Technical+SEO+%C2%B7+Core+Web+Vitals;Building+for+Scale+on+AWS+%26+GCP;Currently%3A+SDE+%40+Libas+Collective%2C+Dubai" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://pranavpadmanabhank.github.io/portfolio-pranav/">
+  <img src="https://img.shields.io/badge/Portfolio-35D6C4?style=for-the-badge&logo=vercel&logoColor=0A1120" />
+</a>
+<a href="https://linkedin.com/in/pranav-k-6342b2215/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/pranavkkeloth">
+  <img src="https://img.shields.io/badge/LeetCode-F5A623?style=for-the-badge&logo=leetcode&logoColor=0A1120" />
+</a>
+<a href="mailto:pranavkofficial123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dcdydl2xr/image/upload/v1727853617/6f2f323032342f30342f30392f30332f30342f61692d67656e6572617465642d383638343836395f313238302e6a7067_prev_ui-Photoroom_tinpff.png" />
+## About Me
 
-- 🧑‍💻 Researching *Web3* technologies  
-- 🌱 Currently learning *Next.js* and *Prisma ORM*  
-- 💬 Feel free to ask me about *MERN, MEAN, GIT*  
-- 📫 Reach me at *pranavkofficial123@gmail.com*  
-- ⚡ Tech-enthusiast and open-source lover
+I'm a performance-focused **Full Stack & AI Software Engineer** based in Dubai, UAE, building scalable, SEO-optimized web platforms with **Next.js, React, and Node.js**. I care about the metrics that actually move a product forward — Core Web Vitals, search visibility, and uptime — and I've spent the last 3+ years applying that obsession to luxury eCommerce and fintech platforms.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pranavpadmanabhank&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+- 🏢 Currently building the luxury eCommerce platform at **[Libas Collective Trading LLC](https://www.libascollective.com)**, Dubai
+- 🚀 Led an SSR migration that drove **727K+ search impressions** and a **100 SEO score**
+- 🏆 Contributed to a project officially recognized by **Guinness World Records**
+- 🌱 Exploring AI-assisted workflows and automation in production apps
+- 💬 Ask me about **Next.js, technical SEO, SSR/SSG architecture, or cloud deployment**
+- 📫 Reach me at **pranavkofficial123@gmail.com**
 
-<p align="left">
-  <a href="https://twitter.com/pranav1030" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/pranav1030?logo=twitter&style=for-the-badge" alt="Twitter - Follow @pranav1030" />
-  </a>
-</p>
+<br/>
 
----
+## Tech Stack
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/pranav1030" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/pranav-k" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/pranav_k7ld" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/pranavkkeloth" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,nodejs,express,mongodb,postgres,mysql,graphql,prisma,docker,kubernetes,aws,gcp,cloudflare,git,github,figma,firebase,tailwind,materialui,py,java,cs,vercel,linux&theme=dark&perline=14" />
 </p>
 
----
+<br/>
 
-<h3 align="center">🛠️ Technologies and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,prisma,react,angular,nodejs,express,mongodb,js,ts,html,css,figma,firebase,git,github,linux,md,netlify,redux,vite,vscode,postman,babel,webpack,bootstrap,tailwind,cloudflare,aws,docker,materialui,arduino,php" alt="Skills" />
-  </a>
-</p>
-
----
+## GitHub Stats
 
 <div align="center">
-  <h3>GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpadmanabhank&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavpadmanabhank&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpadmanabhank&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavpadmanabhank&show_icons=true&count_private=true&hide_border=true&bg_color=0A1120&title_color=35D6C4&text_color=E7ECF3&icon_color=F5A623" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpadmanabhank&layout=compact&hide_border=true&bg_color=0A1120&title_color=35D6C4&text_color=E7ECF3" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavpadmanabhank&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpadmanabhank&hide_border=true&background=0A1120&stroke=1B2740&ring=35D6C4&fire=F5A623&currStreakLabel=35D6C4&sideLabels=E7ECF3&currStreakNum=E7ECF3&sideNums=E7ECF3&dates=5D6A85" />
 </div>
 
----
+<br/>
 
+## Featured Work
+
+| Project | Description | Stack |
+|---|---|---|
+| **[CarltonEdu](https://carltonedu.com)** | Forex education platform — LMS dashboards, course tracking, payments | Next.js |
+| **[JournalBook](https://github.com/PRANAVPADMANABHANK/FantomJournal-new-frontend)** | Trading journal & analytics platform with charting and filters | Next.js, PostgreSQL |
+| **[Truzon.ai](https://github.com/PRANAVPADMANABHANK/truzon)** | AI-powered trading dashboard with real-time automation | Next.js, Socket.io |
+
+<br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <img src="https://komarev.com/ghpvc/?username=pranavpadmanabhank&label=Profile%20Views&color=35D6C4&style=flat-square" />
 </p>
